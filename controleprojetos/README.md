@@ -15,7 +15,7 @@ Sistema desenvolvido com Spring Boot para o cadastro e gerenciamento de projetos
 
 ## Tela do sistema
 
-![Tela do Sistema de Controle de Projetos](Fotos/TelaPojeto.png)
+![Tela do Sistema de Controle de Projetos](Fotos/TelaProjeto.png)
 
 ## Funcionalidades
 
